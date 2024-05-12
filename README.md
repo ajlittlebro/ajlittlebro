@@ -5,7 +5,7 @@ Software developer. Web Developer. Student. Mexican.
 ✨ **Quick Facts**
 - 🔭 I’m currently working on my knowledge. 
 - 🌱 I’m currently learning Astro in deep. 
-- ⚡ Fun fact: I love videogames, food and Youtube 🎮🍔💻.
+- ⚡ Fun fact: I love videogames🎮, food🍔, Youtube💻 and ILovePDF📑.
 - 🤍 Follow me on [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ajlittlebro.svg?style=social&label=Follow%20%40ajlittlebro)](https://twitter.com/ajlittlebro) if you are looking for a great person!
 
 

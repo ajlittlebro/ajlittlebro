@@ -1,6 +1,6 @@
 ### Hello everyone 👋, I'm [Alain](https://github.com/ajlittlebro) 👩‍💻
 #### I'm a ***Web Developer*** 🚀 from México.
-Software developer. Web Developer. Student. Mexican.
+*Software developer. Web Developer. Student. Mexican.*
 
 ✨ **Quick Facts**
 - 🔭 I’m currently working on my knowledge. 
